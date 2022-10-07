@@ -1,0 +1,16 @@
+xcanary
+xguess with all colors match in position
+xguess with first four colors match in position
+xguess with last four colors match in position
+xguess with first three colors match in position and the last two match out of position
+xguess with all colors match out of position
+xguess with first and third color mismatch, second in position, and the others match out of position
+xguess with all non-matching color
+
+xguess with the first color in the selected colors repeated five times (six of the same color)
+xguess with the first color in the selected colors repeated from position two to six, with first position in the guess having the second color in selection
+xguess with the first color in the selected colors repeated from position two to six, with first position in the guess having no match
+xguess after a successful guess
+xguess after 19 incorrect guesses
+xguess after 20 incorrect guesses
+xguess after 21 incorrect guesses
