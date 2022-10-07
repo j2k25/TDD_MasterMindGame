@@ -13,7 +13,7 @@ pass. This is a great first step to complete and ask for a review.
 
 After completing the assignment (and only after) let's answer the following questions:
 
-1. What did you learn mainly in this assignment?
+1. What did you learn mainly in this assignment? 
 
   This was the first time for us to write programs based on testing first, rather than the tactical design that we draw on paper. 
   We needed to UNLEARN the way we used to code and LEARN an entire new way of developing programs. For example, from reading the 
